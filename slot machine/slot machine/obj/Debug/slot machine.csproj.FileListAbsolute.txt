@@ -1,0 +1,22 @@
+D:\New folder\slot machine\slot machine\bin\Debug\slot machine.exe.config
+D:\New folder\slot machine\slot machine\bin\Debug\slot machine.exe
+D:\New folder\slot machine\slot machine\bin\Debug\slot machine.pdb
+D:\New folder\slot machine\slot machine\obj\Debug\slot machine.csproj.AssemblyReference.cache
+D:\New folder\slot machine\slot machine\obj\Debug\slot machine.csproj.SuggestedBindingRedirects.cache
+D:\New folder\slot machine\slot machine\obj\Debug\slot_machine.Form1.resources
+D:\New folder\slot machine\slot machine\obj\Debug\slot_machine.Properties.Resources.resources
+D:\New folder\slot machine\slot machine\obj\Debug\slot machine.csproj.GenerateResource.cache
+D:\New folder\slot machine\slot machine\obj\Debug\slot machine.csproj.CoreCompileInputs.cache
+D:\New folder\slot machine\slot machine\obj\Debug\slot machine.exe
+D:\New folder\slot machine\slot machine\obj\Debug\slot machine.pdb
+D:\projects\slot machine\slot machine\bin\Debug\slot machine.exe.config
+D:\projects\slot machine\slot machine\bin\Debug\slot machine.exe
+D:\projects\slot machine\slot machine\bin\Debug\slot machine.pdb
+D:\projects\slot machine\slot machine\obj\Debug\slot machine.csproj.AssemblyReference.cache
+D:\projects\slot machine\slot machine\obj\Debug\slot machine.csproj.SuggestedBindingRedirects.cache
+D:\projects\slot machine\slot machine\obj\Debug\slot_machine.Form1.resources
+D:\projects\slot machine\slot machine\obj\Debug\slot_machine.Properties.Resources.resources
+D:\projects\slot machine\slot machine\obj\Debug\slot machine.csproj.GenerateResource.cache
+D:\projects\slot machine\slot machine\obj\Debug\slot machine.csproj.CoreCompileInputs.cache
+D:\projects\slot machine\slot machine\obj\Debug\slot machine.exe
+D:\projects\slot machine\slot machine\obj\Debug\slot machine.pdb
